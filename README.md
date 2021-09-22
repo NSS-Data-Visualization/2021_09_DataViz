@@ -1,4 +1,4 @@
-## Data Visualization Challenge, August 2020
+## Data Visualization Challenge, September 2021
 
 This month you will be working with a dataset containing information about every Scooby-Doo episode, movie and special.
 
